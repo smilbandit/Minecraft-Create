@@ -1,0 +1,32 @@
+B,S,69,6    // Lever Off Floor pointing South
+B,R,55,0    // Redstone
+B,a,93,11   // Redstone Repeater North 3 Tick
+B,b,93,0    // Redstone Repeater East  1 Tick
+B,c,93,4    // Redstone Repeater East  2 Tick
+B,d,93,12   // Redstone Repeater East  4 Tick
+B,e,93,2    // Redstone Repeater West  1 Tick
+B,T,76,2    // On  North
+B,n,29,1    // Sticky Piston Up
+B,m,33,2    // Sticky Piston east
+B,p,33,3    // Sticky Piston west
+B,s,109,0    // Stone brick stairs south
+Z,0,4,6     // http://www.youtube.com/watch?v=ySt2zgteIr0&feature=related
+111111
+111111
+111111
+811111
+Z,1,4,6
+1cneT0
+aRbd10
+RRb1R0
+0S0000
+Z,2,4,6
+m100p0
+000000
+000000
+000000
+Z,3,4,6
+00s000
+000000
+000000
+000000
